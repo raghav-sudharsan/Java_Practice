@@ -29,6 +29,7 @@ class Grade
         else
             System.out.println("F");
     }
+    
 	public static void main (String[] args) 
 	{
 		// your code goes here
